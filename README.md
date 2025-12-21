@@ -23,7 +23,7 @@ cd ggj2025
 
 ## Credits
 
-* [m4mbo](https://github.com/m4mbo)
+* [mbaranr](https://github.com/mbaranr)
 * [prosk-sudo](https://github.com/prosk-sudo)
 * [kamepe](https://github.com/kamepe)
 * [MuAzi04](https://github.com/MuAzi04) 
